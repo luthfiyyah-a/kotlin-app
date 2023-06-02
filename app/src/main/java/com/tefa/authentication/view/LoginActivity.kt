@@ -5,9 +5,11 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.ViewModelProviders
+import com.tefa.authentication.R
+import com.tefa.authentication.view_model.AuthViewModel
 
 class LoginActivity : AppCompatActivity() {
 

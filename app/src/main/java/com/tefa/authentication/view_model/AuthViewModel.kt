@@ -1,6 +1,7 @@
 package com.tefa.authentication.view_model
 
 import androidx.lifecycle.ViewModel
+import com.tefa.authentication.model.User
 
 class AuthViewModel : ViewModel() {
 
